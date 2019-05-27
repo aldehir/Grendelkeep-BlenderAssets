@@ -1,0 +1,5 @@
+Grendelkeep.blend filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+BaseEntrance.fbx filter=lfs diff=lfs merge=lfs -text
+BaseFarWall.fbx filter=lfs diff=lfs merge=lfs -text
+BasePlatform.fbx filter=lfs diff=lfs merge=lfs -text
